@@ -20,7 +20,7 @@ Check out my site at https://rainbowpigeon.netlify.app!
 | Function             | Description                                                         |
 |----------------------|---------------------------------------------------------------------|
 | `trim_newline`       | Uses `strcspn` to trim `\r\n` or `\n` from string                   |
-| `truncate_str`       | Truncate string to `max_size` length which includes null terminator |
+| `truncate_str`       | Truncates string to `max_size` length which includes null terminator|
 | `convert_lu_to_char` | Uses `snprintf` to convert `lu` to `char []`                        |
 
 ## IO
