@@ -1,5 +1,5 @@
-# cpp-snippets
-C/C++ Code Snippets
+# c-snippets
+C Code Snippets
 
 Check out my site at https://rainbowpigeon.me!
 
